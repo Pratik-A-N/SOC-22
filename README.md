@@ -16,7 +16,7 @@ Day 5: Get used to Git/Github.
 Video Link: https://youtu.be/RGOj5yH7evk
 
 Day 6: Assignment.
-Link:https://docs.google.com/document/d/1OVz0L2m3HuW0GhWQHjk6hIKPryYX01r-sEs_oi_k-0c/edit?usp=sharing
+Link: Yet to be uploaded.
 
 Day 7: Assignment Submission.
 Create A Github Repository where you can upload your Assignment code. And send me a invite as a collaborator.
