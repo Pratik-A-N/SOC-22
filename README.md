@@ -21,7 +21,7 @@ Video Link : https://youtu.be/fNcJuPIZ2WE
 
 Documentation where you can practice and learn: https://www.w3schools.com/html/html_forms.asp
 
-4) CSS Tutorial for designing web pages
+4)CSS Tutorial for designing web pages
 
 Video Link- https://www.youtube.com/watch?v=1Rs2ND1ryYc
 
