@@ -4,6 +4,7 @@ Weekly Module will be uploaded here Along with the assignments.
 
 **Week 1 - Introduction to HTML**
 
+
 1) In case you are new to programming, here is link to a short video on VS Code.
 Video Link: https://www.youtube.com/watch?v=XLDwqmXnmgI
 
