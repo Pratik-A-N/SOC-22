@@ -2,7 +2,7 @@
 
 Weekly Module will be uploaded here Along with the assignments.
 
-**Week 1 - Introduction to HTML **
+**Week 1 - Introduction to HTML**
 
 1)Basic HTML watch the video to get a idea how html works.
 Video Link : https://youtu.be/pQN-pnXPaVg
