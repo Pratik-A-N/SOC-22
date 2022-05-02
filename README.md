@@ -33,7 +33,8 @@ PS: In case of any doubts Whatsapp group is always there. Happy Coding :)
 
 <hr>
 <hr>
-  **Week 1 - Introduction to HTML**
+
+**Week 1 - Introduction to HTML**
 
 
 1)In case you are new to programming, here is link to a short video on VS Code.
