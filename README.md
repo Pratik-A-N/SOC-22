@@ -32,8 +32,8 @@ PS: In case of any doubts Whatsapp group is always there. Happy Coding :)
 
 
 <hr>
-
-**Week 1 - Introduction to HTML**
+<hr>
+  **Week 1 - Introduction to HTML**
 
 
 1)In case you are new to programming, here is link to a short video on VS Code.
@@ -71,3 +71,6 @@ Create A Github Repository where you can upload your Assignment code. And send m
 **Submission Deadline: 4/5/22**
 
 PS: In case of any doubts Whatsapp group is always there. Happy Coding :) 
+
+
+
