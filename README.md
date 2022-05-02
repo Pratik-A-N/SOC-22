@@ -2,6 +2,33 @@
 
 Weekly Module will be uploaded here Along with the assignments.
 
+**Week 2 - Introduction to JavaScript**
+
+
+1)To get a good start in JavaScript
+
+Video Link: https://www.youtube.com/watch?v=PkZNo7MFNFg&t=857s
+
+2)For more Practice
+
+Link: https://www.w3schools.com/js/DEFAULT.asp 
+
+**Assignment.**
+
+Link: will be Uploaded soon
+
+**Assignment Submission.**
+
+Create A Github Repository where you can upload your Assignment code. And send me a invite as a collaborator.
+
+**Submission Deadline: TBD**
+
+PS: In case of any doubts Whatsapp group is always there. Happy Coding :) 
+
+
+
+
+
 **Week 1 - Introduction to HTML**
 
 
