@@ -15,13 +15,13 @@ Link: https://www.w3schools.com/js/DEFAULT.asp
 
 **Assignment.**
 
-Link: will be Uploaded soon
+Link:https://docs.google.com/document/d/1OVz0L2m3HuW0GhWQHjk6hIKPryYX01r-sEs_oi_k-0c/edit?usp=sharing
 
 **Assignment Submission.**
 
 Create A Github Repository where you can upload your Assignment code. And send me a invite as a collaborator.
 
-**Submission Deadline: TBD**
+**Submission Deadline: 13/5/22**
 
 PS: In case of any doubts Whatsapp group is always there. Happy Coding :) 
 
