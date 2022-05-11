@@ -2,6 +2,35 @@
 
 Weekly Module will be uploaded here Along with the assignments.
 
+**Week 3 - Bootstrap and Reactjs**
+
+
+1)To get a good start in Bootstrap
+
+Video Link: https://www.youtube.com/watch?v=-qfEOE4vtxE
+
+2)For Reactjs watch as many videos as you can in the given playlist for this week 
+
+Link: https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
+
+**Assignment.**
+
+Link:To be uploaded
+
+**Assignment Submission.**
+
+Create A Github Repository where you can upload your Assignment code. And send me a invite as a collaborator.
+
+**Submission Deadline: TBD**
+
+PS: In case of any doubts Whatsapp group is always there. Happy Coding :) 
+
+
+
+
+
+<hr>
+<hr>
 **Week 2 - Introduction to JavaScript**
 
 
