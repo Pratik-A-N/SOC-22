@@ -2,6 +2,32 @@
 
 Weekly Module will be uploaded here Along with the assignments.
 
+**Week 4 - Bootstrap and Reactjs**
+
+
+1)To understand Reactjs in greater detail
+
+Video Link: https://www.youtube.com/watch?v=DLX62G4lc44
+
+**Assignment.**
+
+Link:To be uploaded
+
+**Assignment Submission.**
+
+Create A Github Repository where you can upload your Assignment code. And send me a invite as a collaborator.
+
+**Submission Deadline: TBD**
+
+PS: In case of any doubts Whatsapp group is always there. Happy Coding :) 
+
+
+
+
+
+<hr>
+<hr>
+
 **Week 3 - Bootstrap and Reactjs**
 
 
