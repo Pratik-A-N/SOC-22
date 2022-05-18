@@ -11,7 +11,7 @@ Video Link: https://www.youtube.com/watch?v=DLX62G4lc44
 
 **Assignment.**
 
-Link:To be uploaded
+Link:https://docs.google.com/document/d/1OVz0L2m3HuW0GhWQHjk6hIKPryYX01r-sEs_oi_k-0c/edit?usp=sharing
 
 **Assignment Submission.**
 
@@ -41,7 +41,7 @@ Link: https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
 
 **Assignment.**
 
-Link:To be uploaded
+Link:Combined Assignment for week 3-4 , Link in week 4 section
 
 **Assignment Submission.**
 
