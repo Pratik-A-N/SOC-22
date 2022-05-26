@@ -2,7 +2,36 @@
 
 Weekly Module will be uploaded here Along with the assignments.
 
-**Week 4 - Bootstrap and Reactjs**
+**Week 5 - Python and Django**
+
+
+1)Python
+
+Video Link: https://www.youtube.com/watch?v=rfscVS0vtbw
+
+2)Django basics
+
+Video Link: https://www.youtube.com/watch?v=F5mRW0jo-U4
+
+**Assignment.**
+
+Will be declared by Sunday. 
+
+**Assignment Submission.**
+
+Create A Github Repository where you can upload your Assignment code. And send me a invite as a collaborator.
+
+**Submission Deadline: TBD**
+
+
+
+
+
+
+<hr>
+<hr>
+
+**Week 4 - Reactjs**
 
 
 1)To understand Reactjs in greater detail
@@ -17,7 +46,7 @@ Link:https://docs.google.com/document/d/1OVz0L2m3HuW0GhWQHjk6hIKPryYX01r-sEs_oi_
 
 Create A Github Repository where you can upload your Assignment code. And send me a invite as a collaborator.
 
-**Submission Deadline: TBD**
+**Submission Deadline: 6/6/2022**
 
 PS: In case of any doubts Whatsapp group is always there. Happy Coding :) 
 
@@ -47,7 +76,7 @@ Link:Combined Assignment for week 3-4 , Link in week 4 section
 
 Create A Github Repository where you can upload your Assignment code. And send me a invite as a collaborator.
 
-**Submission Deadline: TBD**
+**Submission Deadline: 6/6/2022**
 
 PS: In case of any doubts Whatsapp group is always there. Happy Coding :) 
 
