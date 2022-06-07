@@ -121,7 +121,7 @@ Link: https://www.w3schools.com/js/DEFAULT.asp
 
 **Assignment.**
 
-Link:https://docs.google.com/document/d/1OVz0L2m3HuW0GhWQHjk6hIKPryYX01r-sEs_oi_k-0c/edit?usp=sharing
+Link:https://docs.google.com/document/d/1-PVL2TZPnz6r2pZjIAaYvo_0gDjX6Kb6FY0gIFUtRLk/edit?usp=sharing
 
 **Assignment Submission.**
 
@@ -169,7 +169,7 @@ Video Link: https://youtu.be/RGOj5yH7evk
 
 **Assignment.**
 
-Link: https://docs.google.com/document/d/1OVz0L2m3HuW0GhWQHjk6hIKPryYX01r-sEs_oi_k-0c/edit?usp=sharing
+Link: https://docs.google.com/document/d/1XXDFFaPOlrvg0b9F2Xgz5x5sfBXPSalB7LKnAWrBWhs/edit?usp=sharing
 
 **Assignment Submission.**
 
