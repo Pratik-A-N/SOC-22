@@ -2,6 +2,28 @@
 
 Weekly Module will be uploaded here Along with the assignments.
 
+**Week 6 - MySQL and API**
+
+
+1)MySQL
+
+Video Link: https://www.youtube.com/watch?v=7S_tz1z_5bA
+
+2)API
+
+Video Link: https://www.youtube.com/watch?v=GZvSYJDk-us
+
+**Assignment.**
+
+To be declared. 
+
+**Assignment Submission.**
+
+Create A Github Repository where you can upload your Assignment code. And send me a invite as a collaborator.
+
+**Submission Deadline: TBD**
+
+
 **Week 5 - Python and Django**
 
 
@@ -15,13 +37,13 @@ Video Link: https://www.youtube.com/watch?v=F5mRW0jo-U4
 
 **Assignment.**
 
-Will be declared by Sunday. 
+Link : https://docs.google.com/document/d/1hdLWBU8iyoIeo_sB7wlNQuTV9QYYuBcbvs0_z9diAtk/edit?usp=sharing 
 
 **Assignment Submission.**
 
 Create A Github Repository where you can upload your Assignment code. And send me a invite as a collaborator.
 
-**Submission Deadline: TBD**
+**Submission Deadline: 14/06/22**
 
 
 
