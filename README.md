@@ -19,16 +19,6 @@ Video Link: https://www.youtube.com/watch?v=7S_tz1z_5bA
 
 Video Link: https://www.youtube.com/watch?v=GZvSYJDk-us
 
-**Assignment.**
-
-To be declared. 
-
-**Assignment Submission.**
-
-Create A Github Repository where you can upload your Assignment code. And send me a invite as a collaborator.
-
-**Submission Deadline: TBD**
-
 
 **Week 5 - Python and Django**
 
